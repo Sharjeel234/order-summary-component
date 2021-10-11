@@ -136,6 +136,7 @@ body{
 }
 
 .attribution a {
+    font-weight: 700;
     color: var(--neutral-dark);
     transition: ease-in-out 0.25s;
 }
